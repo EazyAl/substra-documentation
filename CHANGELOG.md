@@ -6,7 +6,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+
+- Add user management doc ([#345](https://github.com/Substra/substra-documentation/pull/345))
+- Add link to python libraries documentation in Components page ([#347](https://github.com/Substra/substra-documentation/pull/347))
 - Deactivate Binder ([#340](https://github.com/Substra/substra-documentation/pull/340))
+- Reorganise documentation according to [diataxis](https://diataxis.fr/) approach ([#330](https://github.com/Substra/substra-documentation/pull/330))
+- Added section about channels in the main concepts ([#344](https://github.com/Substra/substra-documentation/pull/344))
+- Add frontend documentation in components section ([#346](https://github.com/Substra/substra-documentation/pull/346))
 
 ## [0.30.0]
 
